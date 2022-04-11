@@ -1,7 +1,6 @@
 #ifndef __MAHASISWA_HPP__
 #define __MAHASISWA_HPP__
 
-
 #include <iostream>
 #include "include/person.hpp"
 
